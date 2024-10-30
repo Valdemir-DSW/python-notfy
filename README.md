@@ -7,3 +7,4 @@ junto eu estou enviando um arquivo .html que mostra como usar e tem um arquivo d
 para ela funcionar basta arrastar a pasta dela junto à pasta do seu código e importar pronto ! É obrigatório ter um arquivo de imagem mas sons e outras coisas não são obrigatórias
 
 ela se usa do TK para exibir a tela e pygame para os sons !
+![image](https://github.com/user-attachments/assets/befc5195-217a-4db4-b96d-b9043d24b5ba)
